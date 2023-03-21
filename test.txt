@@ -1,0 +1,12 @@
+Study:
+
+json
+XML
+API
+cors
+HTTP
+RPC
+SOAP
+REST
+RESTful
+GraphQL
